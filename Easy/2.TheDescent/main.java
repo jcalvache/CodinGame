@@ -1,5 +1,7 @@
 /***********************************
 
+	@Author: Javier Calvache (jcalvache@rocketmail.com)
+
   The Goal
 Write the program that destroys the mountains before your starship collides with one of them.
   Rules

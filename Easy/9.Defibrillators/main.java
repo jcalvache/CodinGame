@@ -1,5 +1,7 @@
 /********************************
 
+	@Author: Javier Calvache (jcalvache@rocketmail.com)
+	
   The Goal
 The city of Montpellier has equipped its streets with defibrillators to help save victims of cardiac arrests. The data corresponding to the position of all defibrillators is available online.
 

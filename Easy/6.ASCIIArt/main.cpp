@@ -1,5 +1,7 @@
 /************************************
 
+	@Author: Javier Calvache (jcalvache@rocketmail.com)
+	
 Have you ever asked yourself how it might be possible to simulate this display on a good old terminal? We have: with ASCII art!
   Rules
 

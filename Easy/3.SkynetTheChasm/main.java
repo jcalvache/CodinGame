@@ -1,5 +1,7 @@
 /***********************************
 
+	@Author: Javier Calvache (jcalvache@rocketmail.com)
+
   The Goal
 The goal for your program is to make a motorbike jump across a gap and land on a platform then stop.
   Rules

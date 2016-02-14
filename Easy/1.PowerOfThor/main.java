@@ -1,5 +1,7 @@
 /******************************************
 
+	@Author: Javier Calvache (jcalvache@rocketmail.com)
+
   The Goal
 Your program must allow Thor to reach the light of power.
   Rules
