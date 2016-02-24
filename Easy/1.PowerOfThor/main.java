@@ -37,7 +37,6 @@ class Player {
         // game loop
         while (true) {
             int E = in.nextInt(); // The level of Thor's remaining energy, representing the number of moves he can still make.
-            //System.out.println("E");
             if(LX==TX && LY>TY){
                 System.out.println("S");
                 TY++;
