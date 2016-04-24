@@ -1,4 +1,8 @@
 /******************************************************************
+
+@author Javier Calvache Regidor (jcalvache@rocketmail.com)
+
+
 The Goal
 The aim of this game is to own the largest number of cells in a grid.
   Rules
